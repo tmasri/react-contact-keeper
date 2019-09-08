@@ -1,6 +1,6 @@
-# Contact Keeper - Server Side
+# Contact Keeper
 
-This is the server side of the web app, (add more)
+This is an application for people to store their contacts, its still in its early stages, all it does right now is help you differenciate between your professional and personal contacts
 
 ## Dependencies
 
@@ -32,10 +32,10 @@ npm install -D nodemon concurrently
 
 The following are the react dependencies:
 
-- axios
-- react-router-dom
-- uuid
-- react-transition-group
+-  axios
+-  react-router-dom
+-  uuid
+-  react-transition-group
 
 ```
 npm install axios react-router-dom uuid react-transition-group
